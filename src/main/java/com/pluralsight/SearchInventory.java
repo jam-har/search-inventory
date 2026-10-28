@@ -38,6 +38,7 @@ public class SearchInventory {
                 Product product = new Product(id, name, price);
 
             }
+            inventory.add(Product);
 
             bufferedReader.close();
 
